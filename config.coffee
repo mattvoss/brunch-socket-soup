@@ -2,7 +2,7 @@ exports.config =
   # See docs at http://brunch.readthedocs.org/en/latest/config.html.
   files:
     javascripts:
-      defaultExtension: 'coffee'
+      defaultExtension: 'js'
       joinTo:
         'javascripts/app.js': /^app/
         'javascripts/vendor.js': /^vendor/
